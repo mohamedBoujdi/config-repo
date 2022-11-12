@@ -1,8 +1,8 @@
 # les parametres globals pour toutes microservices
 global:
   params:
-    p1 : "valeur1 global"
-    p2 : "valeur2 global"
+    p1 : "valeur1 pour tous les microservices"
+    p2 : "valeur2 pour tous les microservices"
 
 # les parametres de connexion a la base de donnees
 # les parametres de connexion au serveur de messagerie
