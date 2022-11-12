@@ -1,5 +1,5 @@
 #test config params for customer service prod
 customer:
-  service:
+  serviceprod:
     name: customer-service-prod
     port: 8080
