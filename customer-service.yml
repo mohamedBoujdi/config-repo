@@ -1,0 +1,5 @@
+//test config params for customer service
+customer:
+  service:
+    name: customer-service
+    port: 8080

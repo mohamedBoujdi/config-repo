@@ -1,0 +1,5 @@
+//test config params for order service
+order:
+  service:
+    name: order-service
+    port: 8082

@@ -1,0 +1,5 @@
+//test config params for inventory service
+inventory:
+  service:
+    name: inventory-service
+    port: 8081
