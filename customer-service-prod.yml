@@ -1,4 +1,4 @@
-//test config params for customer service prod
+#test config params for customer service prod
 customer:
   service:
     name: customer-service-prod

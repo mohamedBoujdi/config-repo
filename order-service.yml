@@ -1,4 +1,4 @@
-//test config params for order service
+#test config params for order service
 order:
   service:
     name: order-service

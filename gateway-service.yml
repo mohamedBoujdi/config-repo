@@ -1,4 +1,4 @@
-//test config params for gateway service
+#test config params for gateway service
 gateway:
   service:
     name: gateway-service

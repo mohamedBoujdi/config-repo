@@ -1,4 +1,4 @@
-//test config params for customer service
+#test config params for customer service
 customer:
   service:
     name: customer-service

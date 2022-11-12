@@ -1,4 +1,4 @@
-//test config params for inventory service
+#test config params for inventory service
 inventory:
   service:
     name: inventory-service
