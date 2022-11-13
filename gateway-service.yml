@@ -1,5 +1,2 @@
 #test config params for gateway service
-gateway:
-  service:
-    name: gateway-service
-    port: 8083
+

@@ -1,5 +1,12 @@
 #test config params for order service
-order:
-  service:
-    name: order-service
-    port: 8082
+spring:
+  datasource:
+    url: jdbc:h2:mem:oredrDB;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=FALSE
+  h2:
+    console:
+      enabled: true
+managemet:
+  endpoints:
+    web:
+    exposure:
+      include: "*"
